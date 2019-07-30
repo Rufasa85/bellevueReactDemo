@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bellevueReactDemo/static/css/main.2cce8147.chunk.css",
+    "main.js": "/bellevueReactDemo/static/js/main.1f55c07c.chunk.js",
+    "main.js.map": "/bellevueReactDemo/static/js/main.1f55c07c.chunk.js.map",
+    "runtime~main.js": "/bellevueReactDemo/static/js/runtime~main.2d6a814d.js",
+    "runtime~main.js.map": "/bellevueReactDemo/static/js/runtime~main.2d6a814d.js.map",
+    "static/js/2.b41502e9.chunk.js": "/bellevueReactDemo/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/bellevueReactDemo/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/bellevueReactDemo/index.html",
+    "precache-manifest.0ab2eceb5c512fc73642025c051d7b94.js": "/bellevueReactDemo/precache-manifest.0ab2eceb5c512fc73642025c051d7b94.js",
+    "service-worker.js": "/bellevueReactDemo/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/bellevueReactDemo/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/bellevueReactDemo/static/media/logo.5d5d9eef.svg"
+  }
+}
